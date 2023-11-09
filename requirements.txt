@@ -1,0 +1,14 @@
+python==3.11.4
+xarray==2023.5.0
+ipython==8.14.0
+ipykernel==6.23.1
+netcdf4==1.6.4
+dask==2023.6.0
+scipy==1.10.1
+h5netcdf==1.2.0
+zarr==2.14.2
+matplotlib==3.7.1
+s3fs==2023.6.0
+owslib==0.27.2
+pandas==2.0.2
+numpy==1.24.3
