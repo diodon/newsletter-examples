@@ -8,6 +8,5 @@ h5netcdf==1.2.0
 zarr==2.14.2
 matplotlib==3.7.1
 s3fs==2023.6.0
-owslib==0.27.2
 pandas==2.0.2
 numpy==1.24.3
